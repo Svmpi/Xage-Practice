@@ -1,2 +1,2 @@
 # Xage-Practice
-Practice Core
+The Practice Server of Xage
