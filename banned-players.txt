@@ -1,0 +1,16 @@
+# Updated 05/07/22 02:04 by Esko 1.2.4
+# victim name | ban date | banned by | banned until | reason
+
+imbest66|2022-04-23 04:14:11 +0000|YamilBasado|Forever|
+yamilbasado|2022-04-24 21:52:13 +0000|CONSOLE|Forever|
+diament146|2022-04-26 03:55:11 +0000|delfinez|Forever|Autoclick
+diament146 pvp|2022-04-26 03:55:42 +0000|delfinez|Forever|Autoclick
+kyle|2022-04-29 03:46:47 +0000|i4z9|Forever|fly
+kyleph|2022-04-29 03:46:52 +0000|i4z9|Forever|fly
+anderplexytofc|2022-04-30 20:50:04 +0000|c0stag|Forever|
+que pro condia|2022-04-30 20:23:42 +0000|c0stag|Forever|auto/reach
+and3rlx|2022-04-30 21:06:21 +0000|c0stag|Forever|
+sebastian2k7|2022-05-01 03:48:00 +0000|delfinez|Forever|
+ylourinho pe|2022-05-05 20:44:47 +0000|i4z9|Forever|
+zki|2022-05-07 02:03:58 +0000|emanoonn|Forever|
+zkii|2022-05-07 02:04:29 +0000|emanoonn|Forever|
